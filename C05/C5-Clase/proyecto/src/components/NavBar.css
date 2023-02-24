@@ -1,0 +1,23 @@
+.navbar-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-list li {
+    margin-right: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;;
+    cursor: pointer;
+/*     opacity: 0.5;
+    transition: opacity 0.2s ease-in-out; */
+}
+
+.navbar-list li:hover {
+    color: #EFE144;
+    opacity: 1;
+}

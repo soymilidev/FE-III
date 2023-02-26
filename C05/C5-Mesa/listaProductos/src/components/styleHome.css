@@ -1,0 +1,20 @@
+.logo-store {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.img-store {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: #414E5F;
+}
+
+.productos-list {
+    display: flex;
+    flex-wrap: wrap;
+}

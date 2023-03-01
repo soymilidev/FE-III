@@ -11,3 +11,6 @@ Ejercicios de la materia Front-End III.
 
 **C5**
 - Creación de componentes dinámicos, utilizando map() y estilizándolos con CSS.
+
+**C7**
+- Hooks useState

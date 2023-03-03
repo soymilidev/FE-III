@@ -19,4 +19,4 @@ Ejemplo para la visualización de los artículos:
 •	Mostrar algún identificador para cada uno de los elementos de la lista (como en el ejemplo)  
 •	Mostrar, a través de un componente React, todos los elementos de la lista en pantalla  
 
-
+![Preview](https://github.com/soymilidev/FE-III/blob/main/C07/C7-Mesa/proyectoLista/src/assets/preview.png)

@@ -20,13 +20,13 @@ import Image from './Image';
     };
 
     return (
-        <div className='formulario-container'>
+        <div className="form-container">
         <form onSubmit={handleSubmit}>
             <label>
                 Nombre del artista:
                 <input type="text" onChange={(event) => setArtist(event.target.value)}/>
             </label>
-            <label>birthdate
+            <label>
                 Fecha de nacimiento:
                 <input type="text" onChange={(event) => setBirthdate(event.target.value)}/>
                 {/* <input type="text" value={birthdate} onChange={handleBirthdateChange}/> */}

@@ -3,7 +3,7 @@ import Saludo from './components/Saludo'
 
 
 function App() {
-  let nombres= ["Juan", "Sol"];
+  // let nombres= ["Juan", "Sol"];
   
   return (
       <div>

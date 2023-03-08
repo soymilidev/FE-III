@@ -23,5 +23,9 @@ Ejercicios de la materia Front-End III.
 **C8**
 - onChange y onSubmit, validaciones.
 
-**C8**
+**C9**
 - Eventos y formularios.
+
+**C10**
+- Repaso Pre-Parcial.
+

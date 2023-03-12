@@ -1,0 +1,127 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  background-color: #CE88D1;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  padding-bottom: 25px;
+}
+
+h3 {
+  color: #333;
+  margin: 0px;
+  padding-bottom: 25px;
+}
+
+.App {
+  width: 400px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  
+}
+
+input {
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #823C85;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #618549;
+}
+
+button[type="eliminar"] {
+  width:min-content;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #9DA3D1;
+  color: #fff;
+  cursor: pointer;
+}
+
+button[type="eliminar"]:hover {
+  background-color:#D18C73;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+li button {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 14px;
+  border: none;
+  border-radius: 4px;
+  background-color: #f44336;
+  color: #fff;
+  cursor: pointer;
+}
+
+li button:hover {
+  background-color: #d32f2f;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  width: 400px;
+  background-color: #92D1A2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing:border-box;
+}
+
+.card-pedido {
+  width: 400px;
+  background-color: #EBC7CA;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing:border-box;
+}

@@ -9,3 +9,4 @@ Realizar una aplicación de gestión de pedidos de comida, el mismo tendrá:
 - Al final hay un **botón para confirmar el pedido** (se exhibe por consola el mismo).
 
 ![Preview](https://github.com/soymilidev/FE-III/blob/main/C10/proyectoPedidos/src/assets/preview.png)
+

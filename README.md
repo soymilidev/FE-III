@@ -18,7 +18,7 @@ Ejercicios de la materia Front-End III.
 - Creación de componentes dinámicos, utilizando map() y estilizándolos con CSS.
 
 **C7**
-- Hooks useState.
+- Hooks: useState.
 
 **C8**
 - onChange y onSubmit, validaciones.
@@ -31,3 +31,11 @@ Ejercicios de la materia Front-End III.
 
 **C11**
 - Evaluacion.
+
+**C12**
+- Revisión entregable.
+
+**C13**
+- Hooks: useEffect
+- Método setTimeout
+

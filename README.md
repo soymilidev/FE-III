@@ -1,4 +1,3 @@
-
 # FRONT-END III
 
 Ejercicios de la materia Front-End III.
@@ -21,6 +20,7 @@ Ejercicios de la materia Front-End III.
 - Hooks: useState.
 
 **C8**
+- Eventos, formularios y validaciones
 - onChange y onSubmit, validaciones.
 
 **C9**
@@ -30,12 +30,16 @@ Ejercicios de la materia Front-End III.
 - Repaso Pre-Parcial.
 
 **C11**
-- Evaluacion.
+- Evaluación.
 
 **C12**
 - Revisión entregable.
 
 **C13**
+- Ciclo de vida
 - Hooks: useEffect
 - Método setTimeout
 
+**C14**
+- Peticiones asíncronas en React (fetch).
+- Integración con API mediante useEffect.

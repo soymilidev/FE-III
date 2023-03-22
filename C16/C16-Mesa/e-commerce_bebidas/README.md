@@ -15,8 +15,8 @@ En esta actividad trabajaremos en la implementación del routing a nuestra aplic
 - Para la implementación de los Links deberemos crear un componente navbar y renderizarlo únicamente en una ruta padre. Anidar las demás rutas para preservar este componente ante el cambio de URL.
 - src > Beer.jsx
 ○ Agregar un botón de “volver atrás” que implemente el Hook useNavigate() ynos devuelva a la página anterior en la que estábamos posicionados.
-- Los detalles de entrega de esta actividad serán presentados por el equipo docente.
 
+### Resolución
 ![preview](https://github.com/soymilidev/FE-III/blob/main/C16/C16-Mesa/e-commerce_bebidas/src/assets/PunkApi-1.png)
 
 ![preview](https://github.com/soymilidev/FE-III/blob/main/C16/C16-Mesa/e-commerce_bebidas/src/assets/PunkApi-2.png)

@@ -46,3 +46,14 @@ Ejercicios de la materia Front-End III.
 
 **C15**
 - Async/Await
+
+**C16**
+- React Router
+
+**C17**
+- Intro a testing en React
+- Testing library y Vitest
+
+**C18**
+- Rutas anidadas
+- useParams

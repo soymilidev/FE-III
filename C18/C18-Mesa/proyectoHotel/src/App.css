@@ -1,0 +1,115 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+.navbar button {
+  margin-right: auto;
+  /* Empuja el botón hacia el extremo izquierdo */
+}
+
+.navbar nav ul {
+  display: flex;
+  list-style: none;
+}
+
+.navbar nav ul li {
+  margin-right: 1rem;
+  /* Añade espacio entre los elementos de la lista */
+}
+
+.container {
+  display: flex;
+  /* flex-direction: row; */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: flex-start;
+  gap: 50px;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                    Card                                    */
+/* -------------------------------------------------------------------------- */
+
+.card {
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.card h2 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.card img {
+  width: 200px;
+  height: 110px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+.card p {
+  margin: 0;
+}
+
+.card ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.card li {
+  margin: 5px 0;
+}
+
+.card li:first-child {
+  margin-top: 0;
+}
+
+.card li:last-child {
+  margin-bottom: 0;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   Details                                  */
+/* -------------------------------------------------------------------------- */
+
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* box-sizing: border-box; */
+}
+
+.details img {
+  width: 500px;
+  height: 250px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+.details p {
+  max-width: 500px;
+  font-size: 18px;
+}
+
+.details ul {
+  list-style: none;
+  margin: 0;
+  padding: 0px;
+}
+
+.details ul li {
+  padding: 20px;
+}

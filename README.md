@@ -10,39 +10,39 @@ Ejercicios de la materia Front-End III.
 - Introducción a React
 
 **C4** 
-- Creación de un componente de tipo clase y de un componente de tipo función.
-- Conceptos de componentes: prop, children y fragment.
+- Creación de un componente de tipo clase y de un componente de tipo función
+- Conceptos de componentes: prop, children y fragment
 
 **C5**
-- Creación de componentes dinámicos, utilizando map() y estilizándolos con CSS.
+- Creación de componentes dinámicos, utilizando map() y estilizándolos con CSS
 
 **C7**
-- Hooks: useState.
+- Hook: useState
 
 **C8**
 - Eventos, formularios y validaciones
-- onChange y onSubmit, validaciones.
+- onChange y onSubmit, validaciones
 
 **C9**
-- Eventos y formularios.
+- Eventos y formularios
 
 **C10**
-- Repaso Pre-Parcial.
+- Repaso Pre-Parcial
 
 **C11**
-- Evaluación.
+- Evaluación
 
 **C12**
-- Revisión entregable.
+- Revisión entregable
 
 **C13**
 - Ciclo de vida
-- Hooks: useEffect
+- Hook: useEffect
 - Método setTimeout
 
 **C14**
-- Peticiones asíncronas en React (fetch).
-- Integración con API mediante useEffect.
+- Peticiones asíncronas en React (fetch)
+- Integración con API mediante useEffect
 
 **C15**
 - Async/Await
@@ -57,3 +57,15 @@ Ejercicios de la materia Front-End III.
 **C18**
 - Rutas anidadas
 - useParams
+
+**C19**
+- Hook: useContext()
+- Provider y consumer
+
+**C20**
+- localStorage
+- sessionStorage
+
+**C21**
+- Hook: useReducer()
+

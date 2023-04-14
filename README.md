@@ -69,3 +69,12 @@ Ejercicios de la materia Front-End III.
 **C21**
 - Hook: useReducer()
 
+**C22 - C23 - C24**
+- TP
+
+**C25**
+- Manejo de errores
+
+**C26**
+- Librerías
+
